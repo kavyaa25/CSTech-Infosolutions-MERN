@@ -494,7 +494,6 @@ Set the following environment variables in your Vercel dashboard:
 
 ---
 
-**Note**: This application is designed for demonstration purposes. In a production environment, consider implementing additional security measures, error handling, and performance optimizations.
 
 ## 🏢 **CSTech Infosolutions Private Limited**
 
